@@ -1,0 +1,74 @@
+/* * {
+  outline: 1px dotted red;
+} */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.lightsOff:hover {
+  background-image: url(./assets/img/skull.webp);
+}
+
+
+.lightsOn, .lightsOff {
+  width: 720px;
+  height: 720px;
+  object-fit: cover;
+  font-weight: bolder;
+}
+
+.lights {
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.off {
+  background-color: black;
+  background-image: url(./assets/img/blood.gif);
+  background-repeat: repeat-x;
+}
+
+.on {
+  background-color: white;
+  color: black;
+  background-image: url(./assets/img/glare.gif);
+  object-fit: cover;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
