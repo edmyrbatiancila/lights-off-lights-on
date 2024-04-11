@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a24d1986.css",
+    "main.js": "/static/js/main.70b396af.js",
+    "static/js/453.d1ead18a.chunk.js": "/static/js/453.d1ead18a.chunk.js",
+    "static/media/glare.gif": "/static/media/glare.c01be0c27650773a82f7.gif",
+    "static/media/human_scream.mp3": "/static/media/human_scream.e3398a26490dcfed0711.mp3",
+    "static/media/skull_scream.mp3": "/static/media/skull_scream.3a1cfbbf828117df103d.mp3",
+    "static/media/blood.gif": "/static/media/blood.ea23f000d092686f697e.gif",
+    "static/media/shout.webp": "/static/media/shout.a0c1200d1f818c74652f.webp",
+    "static/media/lights_off.jpg": "/static/media/lights_off.d794a08ba06632b232a6.jpg",
+    "static/media/lights_on.jpg": "/static/media/lights_on.ec60d8aa90db72609c6e.jpg",
+    "static/media/skull.webp": "/static/media/skull.ca000b6863dab87cc9dd.webp",
+    "index.html": "/index.html",
+    "main.a24d1986.css.map": "/static/css/main.a24d1986.css.map",
+    "main.70b396af.js.map": "/static/js/main.70b396af.js.map",
+    "453.d1ead18a.chunk.js.map": "/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24d1986.css",
+    "static/js/main.70b396af.js"
+  ]
+}
